@@ -1,0 +1,27 @@
+body {
+    color:#efd6b1;
+    background-color: #1F1301;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#signin {
+    width: 50%;
+}
+
+#email {
+    margin-bottom: 15px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #FFA800;
+    width:200px;
+}
+
+#gmail {
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #FFA800;
+    width:200px;
+}
