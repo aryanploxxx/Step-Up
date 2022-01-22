@@ -64,6 +64,14 @@
           };
         
           // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+          var firebaseRef = firebase.database().ref( /* fill */);
+          firebaseRef.on("value" , function(snapshot){
+            snapshot.forEach(function(element){
+                if(element.key == /*points*/)
+                    element.val();
+            });
+          })
           const app = initializeApp(firebaseConfig);
           const analytics = getAnalytics(app);
         </script>
