@@ -1,0 +1,33 @@
+com/example/barebears/SignIn.java
+ com.example.barebears.SignIn
+com/example/barebears/databinding/ActivitySignUpBinding.java
+ com.example.barebears.databinding.ActivitySignUpBinding
+com/example/barebears/databinding/ActivityMainBinding.java
+ com.example.barebears.databinding.ActivityMainBinding
+com/example/barebears/databinding/ActivityGenderBinding.java
+ com.example.barebears.databinding.ActivityGenderBinding
+com/example/barebears/databinding/ActivityProfileBinding.java
+ com.example.barebears.databinding.ActivityProfileBinding
+com/example/barebears/SignUp.java
+ com.example.barebears.SignUp
+com/example/barebears/gender.java
+ com.example.barebears.gender
+com/example/barebears/MainActivity.java
+ com.example.barebears.MainActivity
+ com.example.barebears.MainActivity$1
+com/example/barebears/databinding/ActivityStepsBinding.java
+ com.example.barebears.databinding.ActivityStepsBinding
+com/example/barebears/databinding/ActivityLoginPageBinding.java
+ com.example.barebears.databinding.ActivityLoginPageBinding
+com/example/barebears/databinding/ActivitySignInBinding.java
+ com.example.barebears.databinding.ActivitySignInBinding
+com/example/barebears/Steps.java
+ com.example.barebears.Steps
+com/example/barebears/BuildConfig.java
+ com.example.barebears.BuildConfig
+com/example/barebears/Profile.java
+ com.example.barebears.Profile
+ com.example.barebears.Profile$1
+com/example/barebears/LoginPage.java
+ com.example.barebears.LoginPage
+ com.example.barebears.LoginPage$1
