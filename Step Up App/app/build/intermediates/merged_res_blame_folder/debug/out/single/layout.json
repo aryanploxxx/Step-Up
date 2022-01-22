@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_page.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\src\\main\\res\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gender.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\src\\main\\res\\layout\\activity_gender.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_steps.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\src\\main\\res\\layout\\activity_steps.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\BareBears\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    }
+]
