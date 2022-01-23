@@ -12,7 +12,7 @@ https://step-up.netlify.app/
 
 ---
 
-*Step Up to Level Up* as the name suggest allows you to build your physical health while simultaneously playing a game. 
+*Step Up to Level Up* as the tagline suggest allows you to build your physical health while simultaneously playing a game. 
 The more you run, the more you jog, the more you walk, the more you win !!!
 
 Sounds cool right 😎
@@ -31,7 +31,7 @@ To complete the Level 1 of flappy bird game you need 4 points.You can redeem you
 
 
 ## Before you start the app
-Go to settings -> Manage apps -> Step Up(Our app name) -> Permissions -> Enable Physical Activity Permissions.
+Go to settings -> Manage apps -> Step Up(The Application name) -> Permissions -> Enable Physical Activity Permissions.
 
 ## Step Up Application Interface
   ### 1. Loading Page
@@ -43,14 +43,14 @@ Go to settings -> Manage apps -> Step Up(Our app name) -> Permissions -> Enable 
   ### 3. Sign In
 ![sign in](https://user-images.githubusercontent.com/90386813/150668964-0a19c384-2895-4861-b4e5-720b3a09dd55.jpg)
 
-If you are a new user you can click on "new? register here" and you will be redirected to the sign up screen
+If you are a new user you can click on "new? register here" and you will be redirected to the Sign Up screen.
 
   ### 4. Sign Up
 ![sign up](https://user-images.githubusercontent.com/90386813/150669007-8c92e542-c739-492a-8078-c3188d08de64.jpg)
 
-You will be redirected to the Sign in page where you have to sign in again.
+You will be redirected to the Sign in screen again where you have to sign in.
 
-If you are a new user and haven't entered your profile information you will be redirected to fill the profile information
+If you are a new user and haven't entered your profile information you will be redirected to fill the profile information after the sign in.
 
   ### 5. Profile Information
 
@@ -65,3 +65,26 @@ If you are a new user and haven't entered your profile information you will be r
     
   ### Steps Counter Main Screen
   ![step counter screen](https://user-images.githubusercontent.com/90386813/150669298-01abe08f-4263-4ae2-b943-8f404e167847.jpg)
+
+   When you have gained sufficient points you can redeem these points by clicking on "click to redeem points".
+   
+   You will be redirected to the website.
+   
+## Flappy Bird Game (Website Interface)
+  ### 1. Sign In 
+   Sign in to the game by entering your account information.
+    
+    Note: The account should be same as your Step Up account.    
+   ![sign in website](https://user-images.githubusercontent.com/90386813/150669710-58187ae1-1473-4be9-aacd-fda51e79613f.jpg)
+   
+  ### 2. Website Interface
+   After sign in you will see the website interface similar to the image shown below.
+   ![website interface](https://user-images.githubusercontent.com/90386813/150669737-5ea94778-4340-4b67-92b2-67a2bb57be6a.jpg)
+   
+   When you'll click on "Reedem Points" a level overlay will appear.
+
+  ### 3. Levels 
+   The level overlay will look similar to the image given below.
+   ![levels](https://user-images.githubusercontent.com/90386813/150669806-5676fa4c-832b-403a-97df-2940ddf2e1b1.jpg)
+
+   
