@@ -1,0 +1,120 @@
+*{
+	cursor: pointer;
+	-webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+@font-face {
+	font-family: "Press Start 2P";
+	src: url("PressStart2P.ttf") format('truetype');
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    overflow: hidden;
+}
+
+::selection{
+	background: transparent;
+}
+
+.option {
+	display: inline-block;
+	width: 70px;
+	height: 20px;
+	background: rgba(255, 255, 255, 0.6);
+	position: absolute;
+	top: 5px;
+	text-align: center;
+	font-size: 11px;
+	font-family: "Press Start 2P";
+	padding-top: 5px;
+	z-index: 2;
+}
+
+.option:hover, .mode:hover{
+	background: #fff;
+}
+
+canvas {
+  -webkit-tap-highlight-color: transparent;
+}
+
+#account {
+    width: fit-content;
+    left: 10px;
+    padding: 10px 10px 0px 10px;
+}
+
+#points {
+    padding: 10px 10px 0px 10px;
+    width: fit-content;
+    left: 10px;
+    top: 40px;
+}
+
+#redeem {
+    padding: 10px 10px 0px 10px;
+    width: fit-content;
+    left: 10px;
+    top: 75px;
+}
+
+span {
+    color: red;
+}
+
+
+
+/* -----------overflow display------------- */
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.scheme {
+	width: 200px;
+	height: 200px;
+	border-radius: 20px;
+	background-color: #FE737C;
+	color: #fff;
+	text-align: center;
+	display: inline-block;
+	margin-top:10px;
+}
