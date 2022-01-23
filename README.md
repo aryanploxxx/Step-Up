@@ -45,6 +45,8 @@ To complete the Level 1 of flappy bird game you need 4 points.You can redeem you
 ## Before you start the app
 Go to settings -> Manage apps -> Step Up(The Application name) -> Permissions -> Enable Physical Activity Permissions.
 
+---
+
 ## Step Up Application Interface
   ### 1. Loading Page
 ![login page](https://user-images.githubusercontent.com/90386813/150668904-a52d88f5-70cb-4a7a-953d-5bdde1156fbf.jpg)
@@ -82,6 +84,8 @@ If you are a new user and haven't entered your profile information you will be r
    
    You will be redirected to the website.
    
+  ---
+   
 ## Flappy Bird Game (Website Interface)
   ### 1. Sign In 
    Sign in to the game by entering your account information.
@@ -99,4 +103,4 @@ If you are a new user and haven't entered your profile information you will be r
    The level overlay will look similar to the image given below.
    ![levels](https://user-images.githubusercontent.com/90386813/150669806-5676fa4c-832b-403a-97df-2940ddf2e1b1.jpg)
 
-### Special Credits to https://shuding.github.io/flappybird for the Flappy Bird Game Boilerplate.
+### Special Credits to https://github.com/shuding/flappybird for the Flappy Bird Game Boilerplate.
