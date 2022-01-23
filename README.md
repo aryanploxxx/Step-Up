@@ -29,7 +29,19 @@ Suppose you completed 100 steps 👣 for which you got 5 points.
 
 To complete the Level 1 of flappy bird game you need 4 points.You can redeem your 4 points to reach Level 2 and unlock the cool features of the game for Level 2.
 
+---
 
+## Kill The Cliché
+  It is a general belief that gamers are couch potatoes who are spending most of their time sitting in front of their computer screens and are becoming unhealthy and   unfit day by day.
+  
+  Generally games do not promote fitness which has an unhealthy impact on the youth especially kids.
+  
+  Step Up kills this cliché by promoting health and fitness among its users.
+  
+  It is an application cum game of its kind where the more you burn your calories by walking,running or jogging, the more you win.
+  
+---
+  
 ## Before you start the app
 Go to settings -> Manage apps -> Step Up(The Application name) -> Permissions -> Enable Physical Activity Permissions.
 
