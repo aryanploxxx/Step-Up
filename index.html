@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flappy Bird - Sign In</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <div style="max-width: 230px;
+                    min-width: 230px;
+                    width: 230px;
+                    padding: 20px;
+                    margin: auto;
+                    border: 1px solid #efd6b1;
+                    padding-bottom: 0px;
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    -webkit-transform: translate(-50%, -50%);
+                    transform: translate(-50%, -50%);
+                    ">    
+            <h2 id="signin">Sign In</h2>
+            
+            <div id="email">
+                <span><a href="flappybird-1/index.html">login with email</a></span>
+            </div>
+
+            <img src="img/fitness.png" style="width: 100%">
+
+        </div>    
+
+
+
+
+
+        <script type="module">
+            // Import the functions you need from the SDKs you need
+            import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.4/firebase-app.js";
+            import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.4/firebase-analytics.js";
+            // TODO: Add SDKs for Firebase products that you want to use
+            // https://firebase.google.com/docs/web/setup#available-libraries
+          
+            // Your web app's Firebase configuration
+            // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+            const firebaseConfig = {
+              apiKey: "AIzaSyAtbS6RcxKFRRsGlz5jdDk-Vw3YBVeU2Zg",
+              authDomain: "step-up-aak3.firebaseapp.com",
+              databaseURL: "https://step-up-aak3-default-rtdb.firebaseio.com",
+              projectId: "step-up-aak3",
+              storageBucket: "step-up-aak3.appspot.com",
+              messagingSenderId: "120118040580",
+              appId: "1:120118040580:web:dbf7a1d4d5e00e6381bd51",
+              measurementId: "G-DBJZM0XR4Y"
+            };
+          
+            // Initialize Firebase
+            firebase.initializeApp(firebaseConfig);
+            // var firebaseRef = firebase.database().ref( /* fill */);
+            const dataRef = firebase.Database().ref('step-up-aak3-default-rtdb/users/abcd2/calories/');
+          //   dataRef.once('value', (snap)=>{const data = snap.val();});
+          //   firebaseRef.on("value" , function(snapshot){
+          //     snapshot.forEach(function(element){
+          //         if(element.key == /*points*/)
+          //             element.val();
+          //     });
+          //   })
+            const app = initializeApp(firebaseConfig);
+            const analytics = getAnalytics(app);
+          </script>
+    </body>
+</html>
