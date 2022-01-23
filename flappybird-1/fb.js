@@ -79,6 +79,36 @@ var loadImages = function(){
 	splash.onload = onImgLoad;
 }
 
+function level2() {	//points 2
+	sky = new Image();
+	sky.src = 'images/bg4.jfif';
+	sky.onload = onImgLoad;
+}
+
+function level3() {
+	sky = new Image();
+	sky.src = 'images/bg1.jpg';
+	sky.onload = onImgLoad;
+}
+
+function level4() {
+	sky = new Image();
+	sky.src = 'images/bg2.jpg';
+	sky.onload = onImgLoad;
+}
+
+function level5() {
+	sky = new Image();
+	sky.src = 'images/bg3.jpg';
+	sky.onload = onImgLoad;
+}
+
+function level6() {
+	sky = new Image();
+	sky.src = 'images/bg5.jpeg';
+	sky.onload = onImgLoad;
+}
+
 function is_touch_device() {  
   try {  
     document.createEvent("TouchEvent");  
