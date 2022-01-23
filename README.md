@@ -23,3 +23,5 @@ Suppose you completed 10,000 steps 👣 for which you got 10,000 points.
 To complete the Level 1 of flappy bird game you need 6,000 points.You can redeem your 6,000 points to reach Level 2 and unlock the cool features of the game for Level 2.
 
 
+## Before you use the app
+Go to settings -> Manage apps -> Step Up(Our app name) -> Permissions -> Enable Physical Activity Permissions.
