@@ -1,6 +1,6 @@
 ## Step-Up
 ### Step Up to Level Up
-https://step-up.netlify.app/
+> https://step-up.netlify.app/
 
 *Are you a gamer 🎮 who is tired of sitting in front of the computer screen 🖥️ to play your favourite game?*
 
@@ -104,3 +104,8 @@ If you are a new user and haven't entered your profile information you will be r
    ![levels](https://user-images.githubusercontent.com/90386813/150669806-5676fa4c-832b-403a-97df-2940ddf2e1b1.jpg)
 
 ### Special Credits to https://github.com/shuding/flappybird for the Flappy Bird Game Boilerplate.
+
+### Project Developed by - 
+- <a href="https://github.com/aryanploxxx">Aryan Gupta</a><br>
+- <a href="https://github.com/Kush-Ag">Kush Agarwal</a><br>
+- <a href="https://github.com/Ananya2003Gupta">Ananya Gupta</a><br>
